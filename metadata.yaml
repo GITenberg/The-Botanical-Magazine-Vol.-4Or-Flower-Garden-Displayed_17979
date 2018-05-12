@@ -1,0 +1,50 @@
+_repo: The-Botanical-Magazine-Vol.-4Or-Flower-Garden-Displayed_17979
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Curtis, William
+    alias: Curtis, W. (William)
+    birthdate: 1746
+    deathdate: 1799
+    gutenberg_agent_id: '7233'
+    url: http://www.gutenberg.org/2009/agents/7233
+    wikipedia: http://en.wikipedia.org/wiki/William_Curtis
+description: ''
+gutenberg_bookshelf:
+- The Botanical Magazine
+- Horticulture
+gutenberg_issued: '2006-03-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17979'
+language: en
+publication_note: "LONDON:\r\n\r\nPrinted by Couchman and Fry, Throgmorton-Street.\
+  \ For W. CURTIS, No 3, St. George's-Crescent, Black-Friars-Road; And Sold by the\
+  \ principal Booksellers in Great-Britain and Ireland.\r\n\r\nM DCC XCI."
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Botanical illustration -- Periodicals'
+- !lcsh 'Plants, Ornamental -- Periodicals'
+- !lcsh 'Plants -- Periodicals'
+- !lcsh 'Plants, Cultivated -- Periodicals'
+- !lcc 'QK'
+tableOfContents: "[109]—Lavatera Trimestris.\r\n[110]—Mimosa Verticillata.\r\n[111]—Lathyrus\
+  \ Tuberosus.\r\n[112]—Cistus Ladaniferus.\r\n[113]—Convolvulus Purpureus.\r\n[114]—Silene\
+  \ Pendula.\r\n[115]—Lathyrus Sativus.\r\n[116]—Limodorum Tuberosum.\r\n[117]—Campanula\
+  \ Carpatica.\r\n[118]—Sedum Anacampseros.\r\n[119]—Strelitzia Reginæ.\r\n[121]—Narcissus\
+  \ Incomparabilis.\r\n[122]—Hyacinthus Racemosus.\r\n[123]—Anemone Hortensis.\r\n\
+  [124]—Iberis Gibraltarica.\r\n[125]—Alstrœmeria Ligtu.\r\n[126]—Alyssum Deltoideum.\r\
+  \n[127]—Ixia Flexuosa.\r\n[128]—Scilla Campanulata\r\n[129]—Amaryllis Vittata.\r\
+  \n[130]—Alyssum Utriculatum.\r\n[131]—Catesbæa Spinosa.\r\n[132]—Rubus Arcticus.\r\
+  \n[133]—Hyacinthus Comosus\r\n[134]—Adonis Vernalis.\r\n[135]—Gladiolus Cardinalis.\r\
+  \n[136]—Pelargonium Tetragonum.\r\n[137]—Hypericum Balearicum.\r\n[138]—Kalmia Hirsuta.\r\
+  \n[139]—Alstrœmeria Pelegrina.\r\n[140]—Lupinus Luteus.\r\n[141]—Heliotropium Peruvianum.\r\
+  \n[142]—Scorzonera Tingitana.\r\n[143]—Pelargonium Glutinosum.\r\n[144]—Ferraria\
+  \ Undulata.."
+title: "The Botanical Magazine, Vol. 04\r\nOr, Flower-Garden Displayed"
+url: http://www.gutenberg.org/ebooks/17979
